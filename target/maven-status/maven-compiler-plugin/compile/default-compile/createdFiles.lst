@@ -1,0 +1,12 @@
+br\ifes\dw\helloworld\application\AppDBProduto.class
+br\ifes\dw\helloworld\exception\VaiMeuFilhoException.class
+br\ifes\dw\helloworld\repository\ProdutoRepository.class
+br\ifes\dw\helloworld\controller\DBProdutoController.class
+br\ifes\dw\helloworld\controller\FileProdutoController.class
+br\ifes\dw\helloworld\controller\ProdutoController.class
+br\ifes\dw\helloworld\application\AppProduto.class
+br\ifes\dw\helloworld\model\Produto.class
+br\ifes\dw\helloworld\dto\ProdutoInputDTO.class
+br\ifes\dw\helloworld\exception\NotFoundException.class
+br\ifes\dw\helloworld\application\AppFileProduto.class
+br\ifes\dw\helloworld\HelloworldApplication.class
